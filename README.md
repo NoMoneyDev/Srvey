@@ -18,4 +18,4 @@ The platform supports secure role-based access, survey management, and response 
 ## Tech Stack
 Frontend: Next.js
 Backend: FastAPI (Python)
-Database: MySQL
+Database: MongoDB
