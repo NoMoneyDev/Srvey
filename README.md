@@ -19,3 +19,34 @@ The platform supports secure role-based access, survey management, and response 
 - Frontend: Next.js
 - Backend: FastAPI (Python)
 - Database: MongoDB
+
+# How to run
+## Backend
+- Initialize database
+```
+cd backend/database
+docker compose up -d
+```
+
+- Install requirements
+```
+cd ..
+pip install -r requirements.txt
+```
+
+- Run backend
+```
+python main.py
+```
+
+## Frontend
+- Install packages
+```
+cd ../frontend
+npm i
+```
+
+- Run frontend
+```
+npm run dev
+```
