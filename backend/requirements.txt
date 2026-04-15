@@ -1,0 +1,12 @@
+dotenv
+pymongo[srv]
+beanie 
+motor
+google-auth
+fastapi
+uvicorn
+httpx 
+python-jose[cryptography] 
+pydantic[email]
+passlib
+pydantic

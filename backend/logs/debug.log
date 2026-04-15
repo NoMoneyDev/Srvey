@@ -1,0 +1,297 @@
+[2026-04-10 11:37:32] DEBUG [debug:root:64] Root endpoint accessed
+[2026-04-10 11:37:40] DEBUG [debug:root:64] Root endpoint accessed
+[2026-04-10 11:37:40] DEBUG [debug:root:64] Root endpoint accessed
+[2026-04-10 20:20:00] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-10 20:35:02] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-10 20:35:25] DEBUG [debug:get_survey:69] Retrieved survey: test-survey-id
+[2026-04-10 20:37:53] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-10 20:38:39] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-10 20:38:55] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 00:21:31] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 00:22:27] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 00:22:42] DEBUG [debug:google_auth:31] Google token verified for user: rattanan.ru@ku.th
+[2026-04-11 00:22:42] DEBUG [debug:google_auth:55] User found: rattanan.ru@ku.th
+[2026-04-11 00:22:42] DEBUG [debug:google_auth:69] JWT token issued for: rattanan.ru@ku.th
+[2026-04-11 00:31:07] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 00:31:16] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 00:51:53] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 01:25:01] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 01:25:03] DEBUG [debug:get_survey:69] Retrieved survey: undefined
+[2026-04-11 01:25:11] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 01:26:11] DEBUG [debug:get_survey:69] Retrieved survey: undefined
+[2026-04-11 02:24:16] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 02:24:18] DEBUG [debug:get_survey:69] Retrieved survey: undefined
+[2026-04-11 02:24:20] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 02:24:20] DEBUG [debug:get_survey:69] Retrieved survey: undefined
+[2026-04-11 02:24:21] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 02:29:24] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 02:29:31] DEBUG [debug:get_survey:69] Retrieved survey: b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-11 02:29:34] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 02:55:05] DEBUG [debug:get_survey:69] Retrieved survey: 66b23c06-9af2-47e7-a5fb-cff85376be20
+[2026-04-11 02:55:13] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 02:55:19] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 14:44:23] DEBUG [debug:get_survey:69] Retrieved survey: b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-11 14:46:58] DEBUG [debug:get_survey:69] Retrieved survey: b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-11 14:47:03] DEBUG [debug:get_survey:69] Retrieved survey: b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-11 14:47:09] DEBUG [debug:get_survey:69] Retrieved survey: b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-11 14:51:57] DEBUG [debug:get_survey:69] Retrieved survey: b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-11 15:32:42] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 3)
+[2026-04-11 15:33:25] DEBUG [debug:create_survey:17] Survey created: 86688faa-5b29-4c33-ac4b-82416dd2f2a3
+[2026-04-11 15:39:39] DEBUG [debug:create_survey:17] Survey created: c20ddb0c-852c-46e6-8e11-1c8bd0e912d5
+[2026-04-11 15:39:41] DEBUG [debug:create_survey:17] Survey created: 0e31e241-798b-4956-be7b-0a33d09d22ff
+[2026-04-11 15:39:53] DEBUG [debug:create_survey:17] Survey created: 99cd5026-519a-48f6-ae59-da31c92dc18e
+[2026-04-11 15:39:57] DEBUG [debug:create_survey:17] Survey created: 522b0f12-adbd-41dd-aded-6e36009b97ea
+[2026-04-11 15:39:58] DEBUG [debug:create_survey:17] Survey created: 0637dc0e-a47d-48d1-942e-15c6cacd78f3
+[2026-04-11 15:40:05] DEBUG [debug:get_all_surveys:34] Retrieved 9 surveys (total: 9)
+[2026-04-11 15:40:52] DEBUG [debug:get_all_surveys:34] Retrieved 9 surveys (total: 9)
+[2026-04-11 15:40:53] DEBUG [debug:get_survey:69] Retrieved survey: c20ddb0c-852c-46e6-8e11-1c8bd0e912d5
+[2026-04-11 15:40:54] DEBUG [debug:get_all_surveys:34] Retrieved 9 surveys (total: 9)
+[2026-04-11 15:41:05] DEBUG [debug:get_survey:69] Retrieved survey: 86688faa-5b29-4c33-ac4b-82416dd2f2a3
+[2026-04-11 15:46:44] DEBUG [debug:get_survey:69] Retrieved survey: 86688faa-5b29-4c33-ac4b-82416dd2f2a3
+[2026-04-11 15:47:05] DEBUG [debug:get_survey:69] Retrieved survey: 86688faa-5b29-4c33-ac4b-82416dd2f2a3
+[2026-04-11 15:50:02] DEBUG [debug:get_survey:69] Retrieved survey: 86688faa-5b29-4c33-ac4b-82416dd2f2a3
+[2026-04-11 15:50:06] DEBUG [debug:get_survey:69] Retrieved survey: 86688faa-5b29-4c33-ac4b-82416dd2f2a3
+[2026-04-11 15:50:24] DEBUG [debug:get_survey:69] Retrieved survey: 86688faa-5b29-4c33-ac4b-82416dd2f2a3
+[2026-04-11 16:13:24] DEBUG [debug:get_all_surveys:34] Retrieved 9 surveys (total: 9)
+[2026-04-11 16:14:39] DEBUG [debug:create_survey:17] Survey created: 49d07717-d418-4164-8c1b-e37500c364f2
+[2026-04-11 16:18:03] DEBUG [debug:create_survey:17] Survey created: f38d9b65-f04d-4436-a9c4-46c64aadb506
+[2026-04-11 16:19:09] DEBUG [debug:create_survey:17] Survey created: a098e8e9-6dd0-496b-9f47-19d7c51ff6b7
+[2026-04-11 16:21:26] DEBUG [debug:create_survey:17] Survey created: 6d3971f8-8472-4bfd-8ee2-6ec7813df45d
+[2026-04-11 16:29:35] DEBUG [debug:create_survey:17] Survey created: 5c4fc1df-1381-4319-a05c-09daf5e12e17
+[2026-04-11 16:30:50] DEBUG [debug:create_survey:17] Survey created: faa7cb20-3025-4678-8df6-a599a8a7ddda
+[2026-04-11 16:32:48] DEBUG [debug:create_survey:17] Survey created: ba5eee65-9014-46a4-9fe1-26a3a677cb7e
+[2026-04-12 15:47:30] DEBUG [debug:create_survey:17] Survey created: 864bd428-d307-4f72-bd13-ac1acf6d1943
+[2026-04-12 15:49:36] DEBUG [debug:create_survey:17] Survey created: 29874551-2484-40d2-b940-4ba040a1929a
+[2026-04-12 15:55:05] DEBUG [debug:create_survey:17] Survey created: 70730c55-2f39-413d-961a-e219a0328239
+[2026-04-12 15:55:13] DEBUG [debug:create_survey:17] Survey created: f1da647c-6615-4d8b-976c-793d3f4ac519
+[2026-04-12 15:55:13] DEBUG [debug:create_question:24] Question created: fc4ea1c0-1b8c-4cc9-9bee-f8e14a5e6227
+[2026-04-12 15:56:49] DEBUG [debug:get_survey:69] Retrieved survey: f1da647c-6615-4d8b-976c-793d3f4ac519
+[2026-04-12 15:56:49] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey f1da647c-6615-4d8b-976c-793d3f4ac519
+[2026-04-12 16:09:53] DEBUG [debug:create_survey:17] Survey created: 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-12 16:09:53] DEBUG [debug:create_question:24] Question created: f30d0d2b-a84e-4df2-9361-160b7da40dc4
+[2026-04-12 16:09:53] DEBUG [debug:create_question:24] Question created: 0ca1350e-8c08-44fa-846e-036e5cf46bdf
+[2026-04-12 16:09:53] DEBUG [debug:create_question:24] Question created: cb89d6b2-5f15-403f-b7e9-dbece24f6e91
+[2026-04-12 16:09:53] DEBUG [debug:create_question:24] Question created: ab2a03cd-d001-4ced-aa6e-554beebd384e
+[2026-04-12 16:09:53] DEBUG [debug:get_survey:69] Retrieved survey: 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-12 16:09:53] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-12 17:44:11] DEBUG [debug:get_survey:69] Retrieved survey: 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-12 17:44:11] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-12 23:24:33] DEBUG [debug:get_survey:69] Retrieved survey: 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-12 23:24:33] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-13 18:25:23] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-13 18:25:54] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-13 18:26:01] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-13 18:31:41] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-13 18:32:06] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-13 18:32:20] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-13 18:35:18] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-13 19:48:42] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-13 19:50:10] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-13 19:50:15] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-13 20:35:46] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-13 20:46:49] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-13 20:49:44] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey 23a34e39-5130-4376-b663-3da91b6287e2
+[2026-04-13 20:53:28] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 15)
+[2026-04-13 20:53:30] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 15)
+[2026-04-13 20:53:32] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 15)
+[2026-04-13 20:53:33] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 15)
+[2026-04-13 20:53:33] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 15)
+[2026-04-13 20:53:34] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 15)
+[2026-04-13 20:53:47] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 15)
+[2026-04-13 20:53:54] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 15)
+[2026-04-13 20:55:40] DEBUG [debug:create_survey:17] Survey created: a92a0f6e-f132-4070-ae05-247cbc6dd2a5
+[2026-04-13 20:56:51] DEBUG [debug:create_survey:17] Survey created: c462a31c-9fbb-47c1-87df-19d0121f1112
+[2026-04-13 20:56:51] DEBUG [debug:create_question:24] Question created: 8e16a301-61eb-4afa-a246-34b54bb41a33
+[2026-04-13 20:56:51] DEBUG [debug:create_question:24] Question created: 6370038f-c3c0-4fb4-bfa1-b05765f62d15
+[2026-04-13 20:56:51] DEBUG [debug:create_question:24] Question created: d8809515-5b62-4ffa-b37f-54426fbf401a
+[2026-04-13 20:56:51] DEBUG [debug:create_question:24] Question created: 8a36b681-3ac4-4d4d-ade2-0c59c4079024
+[2026-04-13 20:56:51] DEBUG [debug:get_all_questions:39] Retrieved 4 questions for survey c462a31c-9fbb-47c1-87df-19d0121f1112
+[2026-04-13 20:56:59] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 17)
+[2026-04-13 20:57:01] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 17)
+[2026-04-13 20:57:02] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 17)
+[2026-04-13 20:57:56] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 17)
+[2026-04-13 20:57:58] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 17)
+[2026-04-13 20:57:59] DEBUG [debug:get_all_surveys:34] Retrieved 3 surveys (total: 17)
+[2026-04-13 20:58:13] DEBUG [debug:create_survey:17] Survey created: 138aeee9-a150-4798-8cc5-09b9ecbcdce6
+[2026-04-13 20:58:13] DEBUG [debug:create_question:24] Question created: 99aff1d8-2eb7-4dcf-9eea-ddb60f1d4ec2
+[2026-04-13 20:58:13] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 138aeee9-a150-4798-8cc5-09b9ecbcdce6
+[2026-04-13 21:02:19] DEBUG [debug:create_survey:17] Survey created: b5bdce28-4ffe-445a-be31-51977fc6ff73
+[2026-04-13 21:02:19] DEBUG [debug:create_question:24] Question created: 5522f4df-0c26-4104-bbcd-76fe0d62797a
+[2026-04-13 21:02:57] DEBUG [debug:create_survey:17] Survey created: 0c2a5bf7-ce51-4a85-879d-568c1e55328c
+[2026-04-13 21:02:57] DEBUG [debug:create_question:24] Question created: 1788da31-926a-4adf-a0db-671761b083d7
+[2026-04-13 21:03:31] DEBUG [debug:create_survey:17] Survey created: 7a528d06-f416-4a6c-bdf5-98541e8345d1
+[2026-04-13 21:03:31] DEBUG [debug:create_question:24] Question created: 47c5f466-b0ab-4bfb-a9fe-2cd7238635ad
+[2026-04-13 21:03:31] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 7a528d06-f416-4a6c-bdf5-98541e8345d1
+[2026-04-13 21:07:13] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 7a528d06-f416-4a6c-bdf5-98541e8345d1
+[2026-04-13 21:17:45] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 7a528d06-f416-4a6c-bdf5-98541e8345d1
+[2026-04-13 21:27:01] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 7a528d06-f416-4a6c-bdf5-98541e8345d1
+[2026-04-13 21:27:18] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 7a528d06-f416-4a6c-bdf5-98541e8345d1
+[2026-04-13 21:27:20] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 7a528d06-f416-4a6c-bdf5-98541e8345d1
+[2026-04-13 21:32:25] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 21)
+[2026-04-13 21:32:27] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 21)
+[2026-04-13 21:32:28] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 21)
+[2026-04-13 21:32:29] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 21)
+[2026-04-13 21:32:29] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 21)
+[2026-04-13 21:32:37] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 0c2a5bf7-ce51-4a85-879d-568c1e55328c
+[2026-04-13 21:32:41] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 21)
+[2026-04-13 21:32:43] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey b5bdce28-4ffe-445a-be31-51977fc6ff73
+[2026-04-13 21:32:45] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 21)
+[2026-04-13 21:34:21] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-13 21:43:18] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 21)
+[2026-04-13 21:43:18] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 7a528d06-f416-4a6c-bdf5-98541e8345d1
+[2026-04-13 22:13:12] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 21)
+[2026-04-13 22:13:18] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 7a528d06-f416-4a6c-bdf5-98541e8345d1
+[2026-04-13 22:13:21] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 21)
+[2026-04-13 22:14:55] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-13 22:20:09] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 21)
+[2026-04-13 22:20:13] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-13 22:20:57] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-13 23:48:34] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-13 23:49:02] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 21)
+[2026-04-13 23:49:03] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-13 23:49:25] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 21)
+[2026-04-13 23:49:28] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 0c2a5bf7-ce51-4a85-879d-568c1e55328c
+[2026-04-13 23:49:30] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 21)
+[2026-04-13 23:49:31] DEBUG [debug:get_all_questions:39] Retrieved 2 questions for survey 274675ed-3163-4b4b-82f2-2d3c8e85a224
+[2026-04-13 23:49:38] DEBUG [debug:get_all_questions:39] Retrieved 2 questions for survey 274675ed-3163-4b4b-82f2-2d3c8e85a224
+[2026-04-13 23:49:40] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 21)
+[2026-04-13 23:49:41] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-13 23:52:25] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-13 23:53:07] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-13 23:56:53] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-14 00:43:49] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-14 02:00:39] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-14 02:01:39] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-14 02:01:52] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-14 02:05:15] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-14 02:05:32] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-14 02:07:05] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-14 02:07:11] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-14 02:07:14] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-14 02:09:56] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-14 02:10:01] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-14 02:15:52] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-14 02:20:36] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 02:20:41] DEBUG [debug:get_all_questions:39] Retrieved 2 questions for survey 274675ed-3163-4b4b-82f2-2d3c8e85a224
+[2026-04-14 02:20:50] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 02:20:51] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-14 02:20:57] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 02:20:58] DEBUG [debug:get_all_questions:39] Retrieved 2 questions for survey 274675ed-3163-4b4b-82f2-2d3c8e85a224
+[2026-04-14 02:45:36] DEBUG [debug:get_all_questions:39] Retrieved 2 questions for survey 274675ed-3163-4b4b-82f2-2d3c8e85a224
+[2026-04-14 03:00:26] DEBUG [debug:get_all_questions:39] Retrieved 2 questions for survey 274675ed-3163-4b4b-82f2-2d3c8e85a224
+[2026-04-14 03:00:29] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 03:00:31] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey b9731c3a-02c4-442b-814a-00c1081e9094
+[2026-04-14 03:00:38] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 03:00:39] DEBUG [debug:get_all_questions:39] Retrieved 2 questions for survey 274675ed-3163-4b4b-82f2-2d3c8e85a224
+[2026-04-14 03:08:57] DEBUG [debug:get_all_questions:39] Retrieved 2 questions for survey 274675ed-3163-4b4b-82f2-2d3c8e85a224
+[2026-04-14 03:18:58] DEBUG [debug:get_all_questions:39] Retrieved 2 questions for survey 274675ed-3163-4b4b-82f2-2d3c8e85a224
+[2026-04-14 03:23:07] DEBUG [debug:get_all_questions:39] Retrieved 2 questions for survey 274675ed-3163-4b4b-82f2-2d3c8e85a224
+[2026-04-14 03:23:19] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 03:23:58] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 03:24:09] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 03:24:17] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 03:24:28] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 03:44:37] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 03:44:40] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 03:45:11] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 04:28:26] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 16:13:57] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 17:29:27] DEBUG [debug:create_survey:17] Survey created: 181a2b2c-9fc2-471e-ba2b-da34716b5333
+[2026-04-14 17:29:27] DEBUG [debug:create_question:24] Question created: 1b511ca3-6e13-4448-a473-c5e15e586b67
+[2026-04-14 17:29:27] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 181a2b2c-9fc2-471e-ba2b-da34716b5333
+[2026-04-14 17:29:34] DEBUG [debug:get_all_surveys:34] Retrieved 6 surveys (total: 6)
+[2026-04-14 17:29:45] DEBUG [debug:create_survey:17] Survey created: 93d33595-530d-4277-84ea-9ec8d017d91f
+[2026-04-14 17:29:45] DEBUG [debug:create_question:24] Question created: fddf889c-c979-4aef-adb2-fd35930f30c7
+[2026-04-14 17:29:45] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 93d33595-530d-4277-84ea-9ec8d017d91f
+[2026-04-14 18:12:40] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 93d33595-530d-4277-84ea-9ec8d017d91f
+[2026-04-14 18:12:41] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 93d33595-530d-4277-84ea-9ec8d017d91f
+[2026-04-14 18:12:43] DEBUG [debug:get_all_questions:39] Retrieved 1 questions for survey 93d33595-530d-4277-84ea-9ec8d017d91f
+[2026-04-14 18:21:38] DEBUG [debug:get_all_surveys:34] Retrieved 7 surveys (total: 7)
+[2026-04-14 18:23:40] DEBUG [debug:get_survey:69] Retrieved survey: me
+[2026-04-14 18:30:32] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 18:31:00] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 18:31:02] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 18:31:04] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 18:31:20] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 18:31:26] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 20:17:40] DEBUG [debug:get_all_surveys:69] Retrieved 7 surveys (total: 7)
+[2026-04-14 20:18:26] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 20:18:32] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 20:26:43] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 20:27:34] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 20:34:08] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 21:09:35] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:42:47] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:43:45] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:43:49] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:44:16] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:44:32] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:45:37] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:46:10] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:46:13] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:48:19] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:48:22] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:48:24] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:49:19] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:49:21] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:49:27] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:49:40] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:49:42] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:50:04] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:50:09] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:50:11] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:50:18] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:50:29] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:52:19] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:52:21] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:52:44] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:52:46] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:55:04] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:55:07] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:55:08] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:55:30] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:55:45] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:55:49] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:55:57] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:55:58] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 22:56:01] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:03:12] DEBUG [debug:update_survey:128] Survey updated: 93d33595-530d-4277-84ea-9ec8d017d91f
+[2026-04-14 23:03:14] DEBUG [debug:update_survey:128] Survey updated: 93d33595-530d-4277-84ea-9ec8d017d91f
+[2026-04-14 23:07:51] DEBUG [debug:get_all_surveys:69] Retrieved 6 surveys (total: 6)
+[2026-04-14 23:07:58] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:08:01] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:08:03] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:08:05] DEBUG [debug:update_survey:128] Survey updated: 7a528d06-f416-4a6c-bdf5-98541e8345d1
+[2026-04-14 23:08:07] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:08:09] DEBUG [debug:update_survey:128] Survey updated: 0c2a5bf7-ce51-4a85-879d-568c1e55328c
+[2026-04-14 23:08:35] DEBUG [debug:update_survey:128] Survey updated: 0c2a5bf7-ce51-4a85-879d-568c1e55328c
+[2026-04-14 23:08:38] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:08:39] DEBUG [debug:update_survey:128] Survey updated: 7a528d06-f416-4a6c-bdf5-98541e8345d1
+[2026-04-14 23:08:41] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:08:44] DEBUG [debug:update_survey:128] Survey updated: 7a528d06-f416-4a6c-bdf5-98541e8345d1
+[2026-04-14 23:08:45] DEBUG [debug:update_survey:128] Survey updated: 7a528d06-f416-4a6c-bdf5-98541e8345d1
+[2026-04-14 23:08:46] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:09:46] DEBUG [debug:update_survey:128] Survey updated: b5bdce28-4ffe-445a-be31-51977fc6ff73
+[2026-04-14 23:09:47] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:09:50] DEBUG [debug:update_survey:128] Survey updated: b5bdce28-4ffe-445a-be31-51977fc6ff73
+[2026-04-14 23:09:50] DEBUG [debug:update_survey:128] Survey updated: b5bdce28-4ffe-445a-be31-51977fc6ff73
+[2026-04-14 23:09:51] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:10:02] DEBUG [debug:update_survey:128] Survey updated: 93d33595-530d-4277-84ea-9ec8d017d91f
+[2026-04-14 23:10:03] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:14:31] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:14:34] DEBUG [debug:update_survey:128] Survey updated: 93d33595-530d-4277-84ea-9ec8d017d91f
+[2026-04-14 23:14:34] DEBUG [debug:update_survey:128] Survey updated: 93d33595-530d-4277-84ea-9ec8d017d91f
+[2026-04-14 23:14:35] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:14:36] DEBUG [debug:update_survey:128] Survey updated: 93d33595-530d-4277-84ea-9ec8d017d91f
+[2026-04-14 23:14:47] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:14:49] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:16:58] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:18:17] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:18:19] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:18:20] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:19:01] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-14 23:19:26] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-15 00:12:16] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-15 00:12:21] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-15 00:12:25] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-15 00:12:28] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
