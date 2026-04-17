@@ -295,3 +295,16 @@
 [2026-04-15 00:12:21] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
 [2026-04-15 00:12:25] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
 [2026-04-15 00:12:28] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 10 (total: 20)
+[2026-04-15 17:59:54] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 0 (total: 0)
+[2026-04-15 17:59:55] DEBUG [debug:get_all_surveys:69] Retrieved 3 surveys (total: 3)
+[2026-04-15 18:02:35] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 0 (total: 0)
+[2026-04-15 18:02:38] DEBUG [debug:get_all_surveys:69] Retrieved 3 surveys (total: 3)
+[2026-04-15 18:02:39] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 0 (total: 0)
+[2026-04-15 18:04:57] DEBUG [debug:create_survey:17] Survey created: 43892377-16d5-432b-b3fc-7afd271e7bc5
+[2026-04-15 18:04:57] DEBUG [debug:create_question:24] Question created: 36b9388c-c81c-42b9-bd2e-de6846d619eb
+[2026-04-15 18:04:57] DEBUG [debug:create_question:24] Question created: 1a491518-0405-42ce-b2b8-1bd6529e00f5
+[2026-04-15 18:04:57] DEBUG [debug:create_question:24] Question created: c1af9f57-eafd-4072-a31b-d066525e5cc7
+[2026-04-15 18:04:58] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey 43892377-16d5-432b-b3fc-7afd271e7bc5
+[2026-04-15 18:05:23] DEBUG [debug:get_all_questions:39] Retrieved 3 questions for survey 43892377-16d5-432b-b3fc-7afd271e7bc5
+[2026-04-15 18:05:44] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 1 (total: 1)
+[2026-04-15 18:07:08] DEBUG [debug:get_user_surveys:44] User rattanan.ru@ku.th surveys: 1 (total: 1)
