@@ -1,14 +1,14 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from database.database_manager import DatabaseManager
-from routes.user import router as user_router
-from routes.auth import router as auth_router
-from routes.survey import router as survey_router
-from routes.question import router as question_router
-from routes.response import router as response_router
-from routes.answer import router as answer_router
-from routes.analytics import router as analytics_router
-from routes.admin import router as admin_router
+from services.user.router import router as user_router
+from services.auth.router import router as auth_router
+from services.survey.router import router as survey_router
+from services.question.router import router as question_router
+from services.response.router import router as response_router
+from services.answer.router import router as answer_router
+from services.analytic.router import router as analytics_router
+from services.admin.router import router as admin_router
 from middleware import LoggingMiddleware
 from logger import app_logger, debug_logger
 from motor.motor_asyncio import AsyncIOMotorClient
